@@ -104,7 +104,7 @@ If you want to keep your current GIMP settings, back them up first:
 6. Press <kbd>Windows</kbd> + <kbd>R</kbd> to open the Run dialog.
 7. Type `%APPDATA%\GIMP` and press <kbd>Enter</kbd> — this opens GIMP's settings folder.
 8. **Paste** the `3.0` folder here.
-9. When prompted about existing files, select **"Replace the files in the destination"**.
+9. delete exisiting folder eg. 3.* and rename the 3.0 folder to 3.*
 10. Open GIMP — you should see the new PhotoGIMP layout! 🎉
 
 <details>
